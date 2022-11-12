@@ -14,5 +14,5 @@ function ex5() {
         resultArray.push(i);
       }
   }
-  document.getElementById("ex5-result").innerHTML = resultArray;
+  document.getElementById("ex5-result").innerHTML = resultArray.join(' ');
 }

@@ -31,4 +31,10 @@ input::-webkit-inner-spin-button {
 
 button{
     margin-top: 10px;
+    background-color: rgb(33 136 56);
+    padding: 10px;
+    height: 40px;
+    color: white;
+    font-weight: 500;
+    border: 5px solid rgb(212 237 218);
 }
